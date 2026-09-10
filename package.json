@@ -1,7 +1,7 @@
 {
   "name": "plazos-extranjeria-es",
   "version": "1.0.0",
-  "description": "Días inhábiles 2026 (Estado y 19 comunidades autónomas) y plazos de resolución y sentido del silencio de los trámites de extranjería en España, con funciones para calcular vencimientos según la Ley 39/2015.",
+  "description": "Días inhábiles 2026 (Estado, 17 comunidades autónomas, Ceuta y Melilla) y plazos de resolución y sentido del silencio de los trámites de extranjería en España, con funciones para calcular vencimientos según la Ley 39/2015.",
   "main": "src/plazos.js",
   "files": ["src", "data"],
   "scripts": {
