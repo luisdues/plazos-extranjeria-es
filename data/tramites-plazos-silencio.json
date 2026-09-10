@@ -1,0 +1,294 @@
+{
+  "descripcion": "Plazo máximo para resolver y notificar y sentido del silencio administrativo de los trámites de extranjería en España. Verificado en el texto consolidado del BOE (LO 4/2000, RD 1155/2024, Ley 39/2015, Ley 14/2013, RD 240/2007, Ley 12/2009, RD 1004/2015).",
+  "actualizado": "2026-08-26",
+  "tramites": [
+    {
+      "slug": "regla-general",
+      "tramite": "Regla general (arraigos, circunstancias excepcionales y todo lo que no tenga plazo propio)",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "LO 4/2000, DA 1.ª.1; RD 1155/2024, DA 7.ª y 8.ª"
+    },
+    {
+      "slug": "renovacion-residencia-trabajo-cuenta-ajena",
+      "tramite": "Renovación de residencia y trabajo por cuenta ajena",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "RD 1155/2024, art. 80.9"
+    },
+    {
+      "slug": "renovacion-residencia-no-lucrativa",
+      "tramite": "Renovación de residencia no lucrativa",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Art. 64.8"
+    },
+    {
+      "slug": "renovacion-reagrupacion-familiar",
+      "tramite": "Renovación de reagrupación familiar",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Art. 71.5"
+    },
+    {
+      "slug": "renovacion-cuenta-propia",
+      "tramite": "Renovación de cuenta propia",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Art. 87.2"
+    },
+    {
+      "slug": "larga-duracion-nacional",
+      "tramite": "Residencia de larga duración (nacional)",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Art. 184.6"
+    },
+    {
+      "slug": "larga-duracion-ue",
+      "tramite": "Residencia de larga duración-UE",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Art. 177.6"
+    },
+    {
+      "slug": "recuperacion-larga-duracion",
+      "tramite": "Recuperación de la larga duración",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Arts. 187.5 y 189.6"
+    },
+    {
+      "slug": "residencia-trabajo-cuenta-ajena-inicial",
+      "tramite": "Residencia y trabajo por cuenta ajena (inicial)",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 77.6"
+    },
+    {
+      "slug": "cuenta-propia-inicial-consulado",
+      "tramite": "Cuenta propia (inicial, vía consulado)",
+      "plazo": "3 meses desde la comunicación consular",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 85.4"
+    },
+    {
+      "slug": "regularizacion-extraordinaria-2026",
+      "tramite": "Regularización extraordinaria 2026 (solicitudes presentadas hasta el 30 de junio)",
+      "plazo": "3 meses, suspendible",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "DA 21.ª.4 (RD 316/2026)"
+    },
+    {
+      "slug": "reagrupacion-familiar-inicial",
+      "tramite": "Reagrupación familiar (inicial)",
+      "plazo": "2 meses",
+      "cantidad": 2,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 68.6"
+    },
+    {
+      "slug": "familiares-de-espanoles",
+      "tramite": "Familiares de españoles (art. 94 y ss.)",
+      "plazo": "2 meses",
+      "cantidad": 2,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 97.6"
+    },
+    {
+      "slug": "estancia-estudios-desde-espana",
+      "tramite": "Estancia por estudios solicitada desde España",
+      "plazo": "2 meses",
+      "cantidad": 2,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 54.3"
+    },
+    {
+      "slug": "excepcion-autorizacion-trabajo",
+      "tramite": "Residencia con excepción de autorización de trabajo",
+      "plazo": "2 meses (15 días en consulado)",
+      "cantidad": 2,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 89.5 y 89.6"
+    },
+    {
+      "slug": "no-lucrativa-inicial-consulado",
+      "tramite": "Residencia no lucrativa (inicial, vía consulado)",
+      "plazo": "1 mes desde la comunicación consular",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 63.4"
+    },
+    {
+      "slug": "prorroga-estancia-estudios",
+      "tramite": "Prórroga de la estancia por estudios",
+      "plazo": "1 mes",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 55.4"
+    },
+    {
+      "slug": "modificacion-ambito-ocupacion",
+      "tramite": "Modificación de ámbito territorial u ocupación (primer año)",
+      "plazo": "1 mes",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Art. 192.1; LO 4/2000, DA 1.ª.3"
+    },
+    {
+      "slug": "cambio-empleador-primer-anio",
+      "tramite": "Cambio de empleador en el primer año",
+      "plazo": "1 mes",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Art. 79.4"
+    },
+    {
+      "slug": "residencia-menores",
+      "tramite": "Residencia de menores (nacidos o no en España)",
+      "plazo": "1 mes",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Arts. 159.4, 160.5 y 161.4"
+    },
+    {
+      "slug": "visados-residencia-regla-general",
+      "tramite": "Visados de residencia (regla general)",
+      "plazo": "1 mes, no prorrogable",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "DA 7.ª.2"
+    },
+    {
+      "slug": "visado-familiar-espanol",
+      "tramite": "Visado de familiar de español",
+      "plazo": "15 días",
+      "cantidad": 15,
+      "unidad": "naturales",
+      "silencio": "negativo",
+      "norma": "Art. 41.2"
+    },
+    {
+      "slug": "visado-schengen",
+      "tramite": "Visado Schengen de corta duración",
+      "plazo": "15 días naturales, ampliables a 45",
+      "cantidad": 15,
+      "unidad": "naturales",
+      "silencio": "indeterminado",
+      "norma": "Reglamento (CE) 810/2009, art. 23"
+    },
+    {
+      "slug": "ley-emprendedores-uge",
+      "tramite": "Ley de emprendedores (UGE-CE): nómadas digitales, altamente cualificados, inversores, emprendedores",
+      "plazo": "20 días",
+      "cantidad": 20,
+      "unidad": "naturales",
+      "silencio": "positivo",
+      "norma": "Ley 14/2013, art. 76.1"
+    },
+    {
+      "slug": "visados-ley-emprendedores",
+      "tramite": "Visados de la Ley de emprendedores",
+      "plazo": "10 días hábiles",
+      "cantidad": 10,
+      "unidad": "habiles",
+      "silencio": "indeterminado",
+      "norma": "Ley 14/2013, art. 75.5"
+    },
+    {
+      "slug": "tarjeta-familiar-ciudadano-ue",
+      "tramite": "Tarjeta de familiar de ciudadano de la UE (inicial y permanente)",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "RD 240/2007, arts. 8.4 y 11.1"
+    },
+    {
+      "slug": "nie",
+      "tramite": "NIE a instancia del interesado",
+      "plazo": "5 días",
+      "cantidad": 5,
+      "unidad": "naturales",
+      "silencio": "negativo",
+      "norma": "Art. 205.4"
+    },
+    {
+      "slug": "asilo-admision-tramite",
+      "tramite": "Asilo: admisión a trámite",
+      "plazo": "1 mes",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "positivo",
+      "norma": "Ley 12/2009, art. 20.2"
+    },
+    {
+      "slug": "asilo-procedimiento-ordinario",
+      "tramite": "Asilo: procedimiento ordinario",
+      "plazo": "6 meses (3 en urgencia)",
+      "cantidad": 6,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Ley 12/2009, arts. 24.3 y 25.4"
+    },
+    {
+      "slug": "nacionalidad-residencia",
+      "tramite": "Nacionalidad española por residencia",
+      "plazo": "1 año",
+      "cantidad": 12,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "RD 1004/2015, art. 11.3"
+    },
+    {
+      "slug": "recurso-reposicion",
+      "tramite": "Recurso de reposición",
+      "plazo": "1 mes",
+      "cantidad": 1,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Ley 39/2015, arts. 124.2 y 24.1"
+    },
+    {
+      "slug": "recurso-alzada",
+      "tramite": "Recurso de alzada",
+      "plazo": "3 meses",
+      "cantidad": 3,
+      "unidad": "meses",
+      "silencio": "negativo",
+      "norma": "Ley 39/2015, art. 122.2"
+    }
+  ]
+}

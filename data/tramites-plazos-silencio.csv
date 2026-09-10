@@ -1,0 +1,33 @@
+slug,tramite,plazo,cantidad,unidad,silencio,norma
+regla-general,"Regla general (arraigos, circunstancias excepcionales y todo lo que no tenga plazo propio)",3 meses,3,meses,negativo,"LO 4/2000, DA 1.ª.1; RD 1155/2024, DA 7.ª y 8.ª"
+renovacion-residencia-trabajo-cuenta-ajena,Renovación de residencia y trabajo por cuenta ajena,3 meses,3,meses,positivo,"RD 1155/2024, art. 80.9"
+renovacion-residencia-no-lucrativa,Renovación de residencia no lucrativa,3 meses,3,meses,positivo,Art. 64.8
+renovacion-reagrupacion-familiar,Renovación de reagrupación familiar,3 meses,3,meses,positivo,Art. 71.5
+renovacion-cuenta-propia,Renovación de cuenta propia,3 meses,3,meses,positivo,Art. 87.2
+larga-duracion-nacional,Residencia de larga duración (nacional),3 meses,3,meses,positivo,Art. 184.6
+larga-duracion-ue,Residencia de larga duración-UE,3 meses,3,meses,positivo,Art. 177.6
+recuperacion-larga-duracion,Recuperación de la larga duración,3 meses,3,meses,positivo,Arts. 187.5 y 189.6
+residencia-trabajo-cuenta-ajena-inicial,Residencia y trabajo por cuenta ajena (inicial),3 meses,3,meses,negativo,Art. 77.6
+cuenta-propia-inicial-consulado,"Cuenta propia (inicial, vía consulado)",3 meses desde la comunicación consular,3,meses,negativo,Art. 85.4
+regularizacion-extraordinaria-2026,Regularización extraordinaria 2026 (solicitudes presentadas hasta el 30 de junio),"3 meses, suspendible",3,meses,negativo,DA 21.ª.4 (RD 316/2026)
+reagrupacion-familiar-inicial,Reagrupación familiar (inicial),2 meses,2,meses,negativo,Art. 68.6
+familiares-de-espanoles,Familiares de españoles (art. 94 y ss.),2 meses,2,meses,negativo,Art. 97.6
+estancia-estudios-desde-espana,Estancia por estudios solicitada desde España,2 meses,2,meses,negativo,Art. 54.3
+excepcion-autorizacion-trabajo,Residencia con excepción de autorización de trabajo,2 meses (15 días en consulado),2,meses,negativo,Art. 89.5 y 89.6
+no-lucrativa-inicial-consulado,"Residencia no lucrativa (inicial, vía consulado)",1 mes desde la comunicación consular,1,meses,negativo,Art. 63.4
+prorroga-estancia-estudios,Prórroga de la estancia por estudios,1 mes,1,meses,negativo,Art. 55.4
+modificacion-ambito-ocupacion,Modificación de ámbito territorial u ocupación (primer año),1 mes,1,meses,positivo,"Art. 192.1; LO 4/2000, DA 1.ª.3"
+cambio-empleador-primer-anio,Cambio de empleador en el primer año,1 mes,1,meses,negativo,Art. 79.4
+residencia-menores,Residencia de menores (nacidos o no en España),1 mes,1,meses,negativo,"Arts. 159.4, 160.5 y 161.4"
+visados-residencia-regla-general,Visados de residencia (regla general),"1 mes, no prorrogable",1,meses,negativo,DA 7.ª.2
+visado-familiar-espanol,Visado de familiar de español,15 días,15,naturales,negativo,Art. 41.2
+visado-schengen,Visado Schengen de corta duración,"15 días naturales, ampliables a 45",15,naturales,indeterminado,"Reglamento (CE) 810/2009, art. 23"
+ley-emprendedores-uge,"Ley de emprendedores (UGE-CE): nómadas digitales, altamente cualificados, inversores, emprendedores",20 días,20,naturales,positivo,"Ley 14/2013, art. 76.1"
+visados-ley-emprendedores,Visados de la Ley de emprendedores,10 días hábiles,10,habiles,indeterminado,"Ley 14/2013, art. 75.5"
+tarjeta-familiar-ciudadano-ue,Tarjeta de familiar de ciudadano de la UE (inicial y permanente),3 meses,3,meses,negativo,"RD 240/2007, arts. 8.4 y 11.1"
+nie,NIE a instancia del interesado,5 días,5,naturales,negativo,Art. 205.4
+asilo-admision-tramite,Asilo: admisión a trámite,1 mes,1,meses,positivo,"Ley 12/2009, art. 20.2"
+asilo-procedimiento-ordinario,Asilo: procedimiento ordinario,6 meses (3 en urgencia),6,meses,negativo,"Ley 12/2009, arts. 24.3 y 25.4"
+nacionalidad-residencia,Nacionalidad española por residencia,1 año,12,meses,negativo,"RD 1004/2015, art. 11.3"
+recurso-reposicion,Recurso de reposición,1 mes,1,meses,negativo,"Ley 39/2015, arts. 124.2 y 24.1"
+recurso-alzada,Recurso de alzada,3 meses,3,meses,negativo,"Ley 39/2015, art. 122.2"

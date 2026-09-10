@@ -1,0 +1,18 @@
+{
+  "name": "plazos-extranjeria-es",
+  "version": "1.0.0",
+  "description": "Días inhábiles 2026 (Estado y 19 comunidades autónomas) y plazos de resolución y sentido del silencio de los trámites de extranjería en España, con funciones para calcular vencimientos según la Ley 39/2015.",
+  "main": "src/plazos.js",
+  "files": ["src", "data"],
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "keywords": ["extranjeria", "plazos", "dias-inhabiles", "ley-39-2015", "silencio-administrativo", "boe", "espana", "spain", "immigration"],
+  "homepage": "https://esextranjeria.es/calculadora-plazos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisdues/plazos-extranjeria-es.git"
+  },
+  "author": "Luis Durá Esteve (https://esextranjeria.es)",
+  "license": "MIT"
+}

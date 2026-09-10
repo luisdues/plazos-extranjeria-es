@@ -1,0 +1,83 @@
+fecha,ambito,ccaa,ccaa_nombre,confirmado
+2026-01-01,nacional,,,si
+2026-01-06,nacional,,,si
+2026-04-03,nacional,,,si
+2026-05-01,nacional,,,si
+2026-10-12,nacional,,,si
+2026-12-08,nacional,,,si
+2026-12-25,nacional,,,si
+2027-01-01,nacional,,,no (provisional)
+2027-01-06,nacional,,,no (provisional)
+2027-03-26,nacional,,,no (provisional)
+2027-10-12,nacional,,,no (provisional)
+2027-11-01,nacional,,,no (provisional)
+2027-12-06,nacional,,,no (provisional)
+2027-12-08,nacional,,,no (provisional)
+2026-04-02,autonomico,andalucia,Andalucía,si
+2026-11-02,autonomico,andalucia,Andalucía,si
+2026-12-07,autonomico,andalucia,Andalucía,si
+2026-04-02,autonomico,aragon,Aragón,si
+2026-04-23,autonomico,aragon,Aragón,si
+2026-11-02,autonomico,aragon,Aragón,si
+2026-12-07,autonomico,aragon,Aragón,si
+2026-04-02,autonomico,asturias,Asturias,si
+2026-09-08,autonomico,asturias,Asturias,si
+2026-11-02,autonomico,asturias,Asturias,si
+2026-12-07,autonomico,asturias,Asturias,si
+2026-03-02,autonomico,baleares,Illes Balears,si
+2026-04-02,autonomico,baleares,Illes Balears,si
+2026-04-06,autonomico,baleares,Illes Balears,si
+2026-04-02,autonomico,canarias,Canarias,si
+2026-11-02,autonomico,canarias,Canarias,si
+2026-04-02,autonomico,cantabria,Cantabria,si
+2026-07-28,autonomico,cantabria,Cantabria,si
+2026-09-15,autonomico,cantabria,Cantabria,si
+2026-12-07,autonomico,cantabria,Cantabria,si
+2026-04-02,autonomico,castilla-la-mancha,Castilla-La Mancha,si
+2026-04-06,autonomico,castilla-la-mancha,Castilla-La Mancha,si
+2026-06-04,autonomico,castilla-la-mancha,Castilla-La Mancha,si
+2026-11-02,autonomico,castilla-la-mancha,Castilla-La Mancha,si
+2026-04-02,autonomico,castilla-y-leon,Castilla y León,si
+2026-04-23,autonomico,castilla-y-leon,Castilla y León,si
+2026-11-02,autonomico,castilla-y-leon,Castilla y León,si
+2026-12-07,autonomico,castilla-y-leon,Castilla y León,si
+2026-04-06,autonomico,cataluna,Cataluña,si
+2026-06-24,autonomico,cataluna,Cataluña,si
+2026-09-11,autonomico,cataluna,Cataluña,si
+2026-03-19,autonomico,valencia,Comunitat Valenciana,si
+2026-04-06,autonomico,valencia,Comunitat Valenciana,si
+2026-06-24,autonomico,valencia,Comunitat Valenciana,si
+2026-10-09,autonomico,valencia,Comunitat Valenciana,si
+2026-04-02,autonomico,extremadura,Extremadura,si
+2026-09-08,autonomico,extremadura,Extremadura,si
+2026-11-02,autonomico,extremadura,Extremadura,si
+2026-12-07,autonomico,extremadura,Extremadura,si
+2026-03-19,autonomico,galicia,Galicia,si
+2026-04-02,autonomico,galicia,Galicia,si
+2026-06-24,autonomico,galicia,Galicia,si
+2026-04-02,autonomico,madrid,Madrid,si
+2026-11-02,autonomico,madrid,Madrid,si
+2026-12-07,autonomico,madrid,Madrid,si
+2026-03-19,autonomico,murcia,Región de Murcia,si
+2026-04-02,autonomico,murcia,Región de Murcia,si
+2026-06-09,autonomico,murcia,Región de Murcia,si
+2026-12-07,autonomico,murcia,Región de Murcia,si
+2026-03-19,autonomico,navarra,Navarra,si
+2026-04-02,autonomico,navarra,Navarra,si
+2026-04-06,autonomico,navarra,Navarra,si
+2026-11-02,autonomico,navarra,Navarra,si
+2026-03-19,autonomico,pais-vasco,País Vasco,si
+2026-04-02,autonomico,pais-vasco,País Vasco,si
+2026-04-06,autonomico,pais-vasco,País Vasco,si
+2026-04-02,autonomico,rioja,La Rioja,si
+2026-04-06,autonomico,rioja,La Rioja,si
+2026-06-09,autonomico,rioja,La Rioja,si
+2026-12-07,autonomico,rioja,La Rioja,si
+2026-04-02,autonomico,ceuta,Ceuta,si
+2026-05-27,autonomico,ceuta,Ceuta,si
+2026-08-05,autonomico,ceuta,Ceuta,si
+2026-09-02,autonomico,ceuta,Ceuta,si
+2026-03-20,autonomico,melilla,Melilla,si
+2026-04-02,autonomico,melilla,Melilla,si
+2026-05-27,autonomico,melilla,Melilla,si
+2026-12-07,autonomico,melilla,Melilla,si

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si usas estos datos o la librería, cítalos así."
+title: "plazos-extranjeria-es: días inhábiles 2026 y plazos de resolución de los trámites de extranjería en España"
+type: dataset
+authors:
+  - family-names: "Durá Esteve"
+    given-names: "Luis"
+    affiliation: "esextranjeria.es"
+repository-code: "https://github.com/luisdues/plazos-extranjeria-es"
+url: "https://esextranjeria.es/calculadora-plazos"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-10"
+keywords:
+  - extranjería
+  - plazos administrativos
+  - días inhábiles
+  - silencio administrativo
+  - Ley 39/2015
+  - España
