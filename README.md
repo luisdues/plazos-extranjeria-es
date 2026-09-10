@@ -1,5 +1,7 @@
 # plazos-extranjeria-es
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22696991.svg)](https://doi.org/10.5281/zenodo.22696991)
+
 Datos abiertos y una librería pequeña para calcular **plazos administrativos de extranjería en España**:
 
 - **Días inhábiles de 2026** del Estado y de las **19 comunidades y ciudades autónomas**, tomados del anexo del calendario oficial publicado en el BOE (art. 30.7 de la Ley 39/2015).
@@ -61,6 +63,10 @@ Cada fila de `tramites-plazos-silencio` lleva su artículo en el campo `norma`.
 ## English
 
 Open data and a tiny dependency-free JavaScript library for **Spanish administrative deadlines in immigration procedures**: the 2026 official calendar of non-working days for the State and all 19 autonomous communities (from the BOE), the maximum decision time and the effect of administrative silence for 32 immigration procedures (renewals, family reunification, long-term residence, visas, digital nomad and other Startup Law permits, NIE, asylum, citizenship, appeals), and functions that apply the counting rules of article 30 of Law 39/2015. English guides to Spanish visas and residence permits: [esextranjeria.es/en](https://esextranjeria.es/en/).
+
+## Cómo citarlo
+
+Durá Esteve, L. (2026). *plazos-extranjeria-es: días inhábiles 2026 y plazos de resolución de los trámites de extranjería en España* (v1.0.0) [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.22696991
 
 ## Licencia
 

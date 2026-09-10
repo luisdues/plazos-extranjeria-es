@@ -6,6 +6,7 @@ authors:
   - family-names: "Durá Esteve"
     given-names: "Luis"
     affiliation: "esextranjeria.es"
+doi: "10.5281/zenodo.22696991"
 repository-code: "https://github.com/luisdues/plazos-extranjeria-es"
 url: "https://esextranjeria.es/calculadora-plazos"
 license: MIT
