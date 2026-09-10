@@ -62,7 +62,7 @@ Cada fila de `tramites-plazos-silencio` lleva su artículo en el campo `norma`.
 
 ## English
 
-Open data and a tiny dependency-free JavaScript library for **Spanish administrative deadlines in immigration procedures**: the 2026 official calendar of non-working days for the State and all 19 autonomous communities (from the BOE), the maximum decision time and the effect of administrative silence for 32 immigration procedures (renewals, family reunification, long-term residence, visas, digital nomad and other Startup Law permits, NIE, asylum, citizenship, appeals), and functions that apply the counting rules of article 30 of Law 39/2015. English guides to Spanish visas and residence permits: [esextranjeria.es/en](https://esextranjeria.es/en/).
+Open data and a tiny dependency-free JavaScript library for **Spanish administrative deadlines in immigration procedures**: the 2026 official calendar of non-working days for the State, the 17 autonomous communities, Ceuta and Melilla (from the BOE), the maximum decision time and the effect of administrative silence for 32 immigration procedures (renewals, family reunification, long-term residence, visas, digital nomad and other Startup Law permits, NIE, asylum, citizenship, appeals), and functions that apply the counting rules of article 30 of Law 39/2015. English guides to Spanish visas and residence permits: [esextranjeria.es/en](https://esextranjeria.es/en/).
 
 ## Cómo citarlo
 
