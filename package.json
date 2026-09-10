@@ -5,7 +5,7 @@
   "main": "src/plazos.js",
   "files": ["src", "data"],
   "scripts": {
-    "test": "node --test test/"
+    "test": "node test/plazos.test.js"
   },
   "keywords": ["extranjeria", "plazos", "dias-inhabiles", "ley-39-2015", "silencio-administrativo", "boe", "espana", "spain", "immigration"],
   "homepage": "https://esextranjeria.es/calculadora-plazos",
