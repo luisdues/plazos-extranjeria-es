@@ -20,12 +20,12 @@ modificacion-ambito-ocupacion,Modificación de ámbito territorial u ocupación 
 cambio-empleador-primer-anio,Cambio de empleador en el primer año,1 mes,1,meses,negativo,Art. 79.4
 residencia-menores,Residencia de menores (nacidos o no en España),1 mes,1,meses,negativo,"Arts. 159.4, 160.5 y 161.4"
 visados-residencia-regla-general,Visados de residencia (regla general),"1 mes, no prorrogable",1,meses,negativo,DA 7.ª.2
-visado-familiar-espanol,Visado de familiar de español,15 días,15,naturales,negativo,Art. 41.2
+visado-familiar-espanol,Visado de familiar de español,15 días hábiles,15,habiles,negativo,Art. 41.2
 visado-schengen,Visado Schengen de corta duración,"15 días naturales, ampliables a 45",15,naturales,indeterminado,"Reglamento (CE) 810/2009, art. 23"
-ley-emprendedores-uge,"Ley de emprendedores (UGE-CE): nómadas digitales, altamente cualificados, inversores, emprendedores",20 días,20,naturales,positivo,"Ley 14/2013, art. 76.1"
+ley-emprendedores-uge,"Ley de emprendedores (UGE-CE): nómadas digitales, altamente cualificados, inversores, emprendedores",20 días hábiles,20,habiles,positivo,"Ley 14/2013, art. 76.1"
 visados-ley-emprendedores,Visados de la Ley de emprendedores,10 días hábiles,10,habiles,indeterminado,"Ley 14/2013, art. 75.5"
 tarjeta-familiar-ciudadano-ue,Tarjeta de familiar de ciudadano de la UE (inicial y permanente),3 meses,3,meses,negativo,"RD 240/2007, arts. 8.4 y 11.1"
-nie,NIE a instancia del interesado,5 días,5,naturales,negativo,Art. 205.4
+nie,NIE a instancia del interesado,5 días hábiles,5,habiles,negativo,Art. 205.4
 asilo-admision-tramite,Asilo: admisión a trámite,1 mes,1,meses,positivo,"Ley 12/2009, art. 20.2"
 asilo-procedimiento-ordinario,Asilo: procedimiento ordinario,6 meses (3 en urgencia),6,meses,negativo,"Ley 12/2009, arts. 24.3 y 25.4"
 nacionalidad-residencia,Nacionalidad española por residencia,1 año,12,meses,negativo,"RD 1004/2015, art. 11.3"
