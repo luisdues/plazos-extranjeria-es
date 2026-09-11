@@ -23,6 +23,11 @@ test('días hábiles cruzando Navidad y Reyes, con aviso por el calendario provi
   assert.ok(r.aviso);
 });
 
+test('fechas anteriores a 2026 avisan de que no hay festivos cargados', () => {
+  assert.match(P.vencimiento('2025-12-22', 10, 'habiles').aviso, /antes de 2026/);
+  assert.equal(P.vencimiento('2026-09-14', 20, 'habiles').aviso, undefined);
+});
+
 test('los festivos autonómicos cuentan si se indica la comunidad', () => {
   assert.equal(P.esInhabil('2026-09-11', 'cataluna'), true);
   assert.equal(P.esInhabil('2026-09-11'), false);

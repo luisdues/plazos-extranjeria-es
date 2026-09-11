@@ -30,4 +30,4 @@ asilo-admision-tramite,Asilo: admisión a trámite,1 mes,1,meses,positivo,"Ley 1
 asilo-procedimiento-ordinario,Asilo: procedimiento ordinario,6 meses (3 en urgencia),6,meses,negativo,"Ley 12/2009, arts. 24.3 y 25.4"
 nacionalidad-residencia,Nacionalidad española por residencia,1 año,12,meses,negativo,"RD 1004/2015, art. 11.3"
 recurso-reposicion,Recurso de reposición,1 mes,1,meses,negativo,"Ley 39/2015, arts. 124.2 y 24.1"
-recurso-alzada,Recurso de alzada,3 meses,3,meses,negativo,"Ley 39/2015, art. 122.2"
+recurso-alzada,Recurso de alzada,3 meses,3,meses,negativo,"Ley 39/2015, art. 122.2 (salvo art. 24.1, tercer párrafo: el alzada contra un silencio se entiende estimado)"

@@ -1,6 +1,6 @@
 {
   "descripcion": "Plazo máximo para resolver y notificar y sentido del silencio administrativo de los trámites de extranjería en España. Verificado en el texto consolidado del BOE (LO 4/2000, RD 1155/2024, Ley 39/2015, Ley 14/2013, RD 240/2007, Ley 12/2009, RD 1004/2015).",
-  "actualizado": "2026-08-26",
+  "actualizado": "2026-09-11",
   "tramites": [
     {
       "slug": "regla-general",
@@ -288,7 +288,7 @@
       "cantidad": 3,
       "unidad": "meses",
       "silencio": "negativo",
-      "norma": "Ley 39/2015, art. 122.2"
+      "norma": "Ley 39/2015, art. 122.2 (salvo art. 24.1, tercer párrafo: el alzada contra un silencio se entiende estimado)"
     }
   ]
 }

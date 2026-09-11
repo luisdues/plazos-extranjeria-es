@@ -116,7 +116,10 @@
     else throw new RangeError('Unidad no admitida: ' + unidad + " (usa 'meses', 'habiles' o 'naturales')");
     var vence = primerHabil(natural, ccaa);
     var r = { vence: vence, venceSinProrroga: natural, prorrogado: vence !== natural };
-    if (+vence.slice(0, 4) > INHABILES.anio_confirmado || +fecha.slice(0, 4) > INHABILES.anio_confirmado) {
+    if (+fecha.slice(0, 4) < INHABILES.anio_confirmado) {
+      r.aviso = 'No hay festivos cargados antes de ' + INHABILES.anio_confirmado +
+        ': en esas fechas solo se excluyen sábados y domingos, así que el resultado puede adelantarse.';
+    } else if (+vence.slice(0, 4) > INHABILES.anio_confirmado || +fecha.slice(0, 4) > INHABILES.anio_confirmado) {
       r.aviso = 'El calendario de ' + (INHABILES.anio_confirmado + 1) +
         ' es provisional: solo incluye festivos nacionales fijos y Viernes Santo.';
     }

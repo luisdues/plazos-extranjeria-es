@@ -1,6 +1,6 @@
 # plazos-extranjeria-es
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22696991.svg)](https://doi.org/10.5281/zenodo.22696991)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22696990.svg)](https://doi.org/10.5281/zenodo.22696990)
 
 Datos abiertos y una librería pequeña para calcular **plazos administrativos de extranjería en España**:
 
@@ -56,6 +56,7 @@ Cada fila de `tramites-plazos-silencio` lleva su artículo en el campo `norma`.
 ## Límites
 
 - **No incluye los dos festivos locales** de cada municipio. También son inhábiles en su término municipal, así que solo pueden alargar un plazo, nunca acortarlo.
+- **Antes de 2026 no hay festivos cargados**: en esas fechas solo se excluyen sábados y domingos, y `vencimiento` devuelve un `aviso`. `esInhabil` no avisa.
 - **2027 es provisional**: solo recoge los festivos nacionales fijos y el Viernes Santo hasta que se publique el calendario oficial (suele salir en noviembre). Cuando un cálculo cae en 2027 la función devuelve un `aviso`.
 - Los plazos de resolución **se suspenden** mientras dura un requerimiento de subsanación (art. 22.1.a de la Ley 39/2015). La librería no puede saberlo: hay que sumar ese tiempo.
 - Es información, no asesoramiento jurídico. Ante un plazo que vence, confírmalo con la resolución que te han notificado.
@@ -66,7 +67,14 @@ Open data and a tiny dependency-free JavaScript library for **Spanish administra
 
 ## Cómo citarlo
 
-Durá Esteve, L. (2026). *plazos-extranjeria-es: días inhábiles 2026 y plazos de resolución de los trámites de extranjería en España* (v1.0.0) [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.22696991
+Durá Esteve, L. (2026). *plazos-extranjeria-es: días inhábiles 2026 y plazos de resolución de los trámites de extranjería en España* [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.22696990
+
+Ese DOI apunta siempre a la última versión; cada versión tiene además el suyo en Zenodo.
+
+## Cambios
+
+- **1.0.1 (11-09-2026).** La UGE-CE (Ley 14/2013, art. 76.1), el visado de familiar de español (RD 1155/2024, art. 41.2) y el NIE (art. 205.4) se cuentan en días **hábiles**: la norma dice «días» sin declararlos naturales, y entonces rige el art. 30.2 de la Ley 39/2015. En la UGE-CE, con silencio positivo, la versión anterior adelantaba el vencimiento hasta 13 días. El recurso de alzada cita la excepción del art. 24.1, tercer párrafo, y las fechas anteriores a 2026 devuelven un aviso. Gracias a [@GeiserX](https://github.com/GeiserX), que lo detectó revisando el conjunto entero (#1).
+- **1.0.0 (10-09-2026).** Primera publicación.
 
 ## Licencia
 
