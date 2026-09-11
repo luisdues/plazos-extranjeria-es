@@ -32,9 +32,16 @@ test('los festivos autonómicos cuentan si se indica la comunidad', () => {
 
 test('plazo de resolución de un trámite y sentido del silencio', () => {
   const nie = P.plazoResolucion('nie', '2026-12-03');
-  assert.equal(nie.venceSinProrroga, '2026-12-08');
-  assert.equal(nie.vence, '2026-12-09');
+  assert.equal(nie.venceSinProrroga, '2026-12-11');
+  assert.equal(nie.vence, '2026-12-11');
   assert.equal(nie.silencio, 'negativo');
+
+  // Art. 30.2: un plazo en «días» a secas es en dias habiles. Solo cuenta en
+  // naturales si la norma lo dice, como el Codigo de visados. Este caso es el
+  // que mas dano hace si se cuenta mal, porque su silencio es positivo.
+  const uge = P.plazoResolucion('ley-emprendedores-uge', '2026-12-03');
+  assert.equal(uge.vence, '2027-01-05');
+  assert.equal(uge.silencio, 'positivo');
 
   const rep = P.plazoResolucion('recurso-reposicion', '2026-11-02', 'andalucia');
   assert.equal(rep.vence, '2026-12-02');

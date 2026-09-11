@@ -194,9 +194,9 @@
     {
       "slug": "visado-familiar-espanol",
       "tramite": "Visado de familiar de español",
-      "plazo": "15 días",
+      "plazo": "15 días hábiles",
       "cantidad": 15,
-      "unidad": "naturales",
+      "unidad": "habiles",
       "silencio": "negativo",
       "norma": "Art. 41.2"
     },
@@ -212,9 +212,9 @@
     {
       "slug": "ley-emprendedores-uge",
       "tramite": "Ley de emprendedores (UGE-CE): nómadas digitales, altamente cualificados, inversores, emprendedores",
-      "plazo": "20 días",
+      "plazo": "20 días hábiles",
       "cantidad": 20,
-      "unidad": "naturales",
+      "unidad": "habiles",
       "silencio": "positivo",
       "norma": "Ley 14/2013, art. 76.1"
     },
@@ -239,9 +239,9 @@
     {
       "slug": "nie",
       "tramite": "NIE a instancia del interesado",
-      "plazo": "5 días",
+      "plazo": "5 días hábiles",
       "cantidad": 5,
-      "unidad": "naturales",
+      "unidad": "habiles",
       "silencio": "negativo",
       "norma": "Art. 205.4"
     },
